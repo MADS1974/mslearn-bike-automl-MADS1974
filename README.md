@@ -16,14 +16,14 @@
 
 O projeto desenvolvido para fins de portfólio pessoal, seguindo as orientações da especialista [Valéria Baptista](https://www.linkedin.com/in/valeriabaptista/) no bootcamp da DIO - Microsoft Azure AI Fundamentals, Neste LAB, aprendi a explorar as capacidades de Machine Learning da plataforma para desenvolver uma primeira automação prática. Ao aplicar implementações e soluções escaláveis de aprendizado de máquina na nuvem da Microsoft, adquiri conhecimentos valiosos e experiência na construção de soluções eficientes.
 
-**Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 Este projeto foi construído utilizando Azure Machine Learning
 
-## Agradecimentos
+### Agradecimentos
 
 [DIO](https://web.dio.me/home)
 
-## Follow Me
+### Follow Me
 
 [LinkedIN](https://www.linkedin.com/in/mads1974/)
