@@ -22,7 +22,8 @@ Este projeto foi construído utilizando Azure Machine Learning
 
 ## Agradecimentos
 
-[linkedin](https://www.linkedin.com/in/mads1974/)
-
 [DIO](https://web.dio.me/home)
 
+## Follow Me
+
+[linkedin](https://www.linkedin.com/in/mads1974/)
