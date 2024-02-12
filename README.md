@@ -1,7 +1,7 @@
 </h1>
 
 <p align="center">
-  <a href="L I N K">🔗 Live Preview</a>   |   
+  <a href="L I N K"> Live Preview</a>   |   
   <a href="#-projeto"> 🖥️ Projeto</a>   |   
   <a href="#-tecnologias">🚀 Tecnologias</a>
 </p>
@@ -22,10 +22,7 @@ Este projeto foi construído utilizando Azure Machine Learning
 
 ## Agradecimentos
 
-[![DIO][DIO.com]][DIO.url] 
+[linkedin](https://www.linkedin.com/in/mads1974/)
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[DIO](https://web.dio.me/home)
 
-[linkedin-url]: https://linkedin.com/in/othneildrew
-
-[DIO.url]: https://web.dio.me/hom
