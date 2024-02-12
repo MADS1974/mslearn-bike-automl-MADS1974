@@ -26,4 +26,4 @@ Este projeto foi construído utilizando Azure Machine Learning
 
 ## Follow Me
 
-[linkedin](https://www.linkedin.com/in/mads1974/)
+[LinkedIN](https://www.linkedin.com/in/mads1974/)
